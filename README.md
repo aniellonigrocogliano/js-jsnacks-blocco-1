@@ -44,10 +44,10 @@ Calcola la somma e la media dei primi 10 numeri.
 - [x] Se dispari lo inseriamo nell'array vuoto.
 - [x] Stampiamo array.
 ## Svolgimento JSnack 6
-- [ ] Chiediamo un numero all'utente.
-- [ ] creiamo un ciclo for con il numero di iterazioni impostate dall'ultente
-- [ ] Ad ogni interazione creiamo il cubo dell'indice del for
-- [ ] Stampiamo risultato.
+- [x] Chiediamo un numero all'utente.
+- [x] creiamo un ciclo for con il numero di iterazioni impostate dall'ultente
+- [x] Ad ogni interazione creiamo il cubo dell'indice del for
+- [x] Stampiamo risultato.
 ## Svolgimento JSnack 7
 - [ ] Creiamo un ciclo for dove il massimo è 1000.
 - [ ] ad ogni interazione calcoliamo il quadrato dell'indice
