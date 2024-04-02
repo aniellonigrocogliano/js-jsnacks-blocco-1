@@ -59,7 +59,7 @@ Calcola la somma e la media dei primi 10 numeri.
 - [x] sommiamo le singole cifre
 - [x] Stampiamo il risultato.
 ## Svolgimento JSnack 9
-- [ ] creiamo un for da 1 a 10
-- [ ] sommiamo ogni nummero creando la somma.
-- [ ] dividiamo per 10 la somma per fare la media.
-- [ ] Stampiamo risultato
+- [x] creiamo un for da 1 a 10
+- [x] sommiamo ogni nummero creando la somma.
+- [x] dividiamo per 10 la somma per fare la media.
+- [x] Stampiamo risultato
