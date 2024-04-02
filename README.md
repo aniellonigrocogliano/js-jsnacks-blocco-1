@@ -28,21 +28,21 @@ e calcola la somma di tutte le cifre che compongono il numero.
 Calcola la somma e la media dei primi 10 numeri.
 
 ## Svolgimento JSnack 3
-- [ ] Creare un ciclo che chiede per 10 volte un numero all'utente.
-- [ ] creaiamo una variabile iniziale 0
-- [ ] ad ogni interazione del ciclo aggiungiamo alla variabile iniziale il numero inserito dall'utente
-- [ ] stampiamo a video la somma.
+- [x] Creare un ciclo che chiede per 10 volte un numero all'utente.
+- [x] creaiamo una variabile iniziale 0
+- [x] ad ogni interazione del ciclo aggiungiamo alla variabile iniziale il numero inserito dall'utente
+- [x] stampiamo a video la somma.
 ## Svolgimento JSnack 4
-- [ ] Creiamo un array con la lista degli invitati
-- [ ] chiediamo il nome all'utente
-- [ ] scorriamo la lista cercando il nome dell'utente
-- [ ] Se il nome è presente stampiamo che è invitato altrimenti gli diciamo che la festa è privata
+- [x] Creiamo un array con la lista degli invitati
+- [x] chiediamo il nome all'utente
+- [x] scorriamo la lista cercando il nome dell'utente
+- [x] Se il nome è presente stampiamo che è invitato altrimenti gli diciamo che la festa è privata
 ## Svolgimento JSnack 5
-- [ ] Creiamo un array vuoto.
-- [ ] creiamo un ciclo che chiede 6 volte un numero all'utente
-- [ ] Verifichiamo che ogni numero è dispari
-- [ ] Se dispari lo inseriamo nell'array vuoto.
-- [ ] Stampiamo array.
+- [x] Creiamo un array vuoto.
+- [x] creiamo un ciclo che chiede 6 volte un numero all'utente
+- [x] Verifichiamo che ogni numero è dispari
+- [x] Se dispari lo inseriamo nell'array vuoto.
+- [x] Stampiamo array.
 ## Svolgimento JSnack 6
 - [ ] Chiediamo un numero all'utente.
 - [ ] creiamo un ciclo for con il numero di iterazioni impostate dall'ultente
