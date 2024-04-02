@@ -54,10 +54,10 @@ Calcola la somma e la media dei primi 10 numeri.
 - [x] al raggiungimento del numero 1000 blocchiamo il ciclo
 - [x] Stampiamo risultato.
 ## Svolgimento JSnack 8
-- [ ] Chiedere un numero ad un utente.
-- [ ] Dividiamo il numero in singole cifre.
-- [ ] sommiamo le singole cifre
-- [ ] Stampiamo il risultato.
+- [x] Chiedere un numero ad un utente.
+- [x] Dividiamo il numero in singole cifre.
+- [x] sommiamo le singole cifre
+- [x] Stampiamo il risultato.
 ## Svolgimento JSnack 9
 - [ ] creiamo un for da 1 a 10
 - [ ] sommiamo ogni nummero creando la somma.
